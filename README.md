@@ -42,5 +42,7 @@
 ---
 
 <img width="726" height="383" alt="Ekran görüntüsü 2025-10-04 110006" src="https://github.com/user-attachments/assets/c3faad87-be1b-413f-86b0-c3493c9994b4" />
+
 ---
+
 <img width="725" height="383" alt="Ekran görüntüsü 2025-10-04 105918" src="https://github.com/user-attachments/assets/103a0cee-963a-4b28-abb4-bdb3dbd63b7a" />
