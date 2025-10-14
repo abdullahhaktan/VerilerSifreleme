@@ -49,7 +49,10 @@ Bu proje, genellikle C# dilinde yazılmış basit bir Konsol Uygulaması veya K�
 2.  **Projeyi Açma:**
     * **Visual Studio** ile `.sln` (Solution) dosyasını açın.
 
-3.  **Çözümü Başlatma:**
+3.  ** Veri tabanı oluşturma **
+   *  **Manuel olarak vei tabanı oluşturup ilgili tabloları ekleyebilirsiniz**
+   
+5.  **Çözümü Başlatma:**
     * Projeyi derleyin ve Konsol Uygulamasını **F5** tuşu ile çalıştırın. Uygulama, farklı metinlerin hash değerlerini hesaplayıp ekrana yazdıracaktır.
 
 ---
@@ -100,7 +103,10 @@ This project is typically structured as a simple Console Application or Library 
 
 2.  **Opening the Project:**
     * Open the **`.sln`** (Solution) file with **Visual Studio**.
-
+      
+3.  ** Creating Database **
+   *  **You may create the database and add the relevant tables**
+     
 3.  **Starting the Solution:**
     * Build the project and run the Console Application by pressing **F5**. The application will calculate and print the hash values of different texts to the console.
 
